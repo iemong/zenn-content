@@ -1,0 +1,24 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "new":" zenn new:article",
+      "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iemong/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "iemong <kiyoshidainagon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iemong/zenn-content/issues"
+  },
+  "homepage": "https://github.com/iemong/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.75"
+  }
+}
